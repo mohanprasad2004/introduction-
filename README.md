@@ -1,2 +1,3 @@
-# introduction-
-introduction vedio 
+My name is Mohan Prasad J, and I am currently pursuing Computer Science Engineering (CSE Core) at VIT Bhopal, with graduation expected in 2027. I have a strong interest in the intersection of technology and finance, particularly in quantitative finance, where I focus on applying programming and mathematical concepts to real-world financial problems. I have an intermediate working knowledge of Python, which I actively use and continue to strengthen.
+
+Driven by my interest in the stock market, I am learning about options, futures, trading strategies, and the underlying mathematical principles that support quantitative decision-making. Alongside this, my academic background in computer science helps me approach problems analytically and logically. I am a disciplined and curious learner who believes that consistency, analytical thinking, and continuous skill development are key to long-term growth in both technology and finance.
